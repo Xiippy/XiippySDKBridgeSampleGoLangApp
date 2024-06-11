@@ -1,0 +1,4 @@
+github.com/Xiippy/Xiippy.POSeCommSDK.Light_GoLang v0.0.0-20240604104005-1ef35f013f42 h1:RgKat89fNcMXvYm8CDUoOxHYqByKkDCLGNO0PeiShX0=
+github.com/Xiippy/Xiippy.POSeCommSDK.Light_GoLang v0.0.0-20240604104005-1ef35f013f42/go.mod h1:8nJTlD+KzyAyqlsGy5FYZCPxXqa9INZ22fcxbTwYzuc=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
